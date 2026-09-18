@@ -1,0 +1,7 @@
+term,estimate,robust_se,t_value,p_value,lower_95,upper_95
+(Intercept),0.8581,0.5014,1.7114,0.0888,-0.1246,1.8408
+consumer_privacy_concerns,0.2411,0.084,2.8692,0.0046,0.0764,0.4058
+consumer_trust_in_ai_chatbots,0.513,0.0998,5.1394,0,0.3174,0.7087
+ai_familiarity,0.1645,0.0823,1.999,0.0472,0.0032,0.3258
+chatbot_typeAware - Centralized,-0.1489,0.14,-1.0631,0.2892,-0.4233,0.1256
+chatbot_typeAware - Decentralized,-0.0983,0.132,-0.7447,0.4575,-0.3569,0.1604

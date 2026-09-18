@@ -1,0 +1,4 @@
+chatbot_type,participants,satisfaction_mean,privacy_mean,trust_mean,ai_familiarity_mean
+Not aware,54,4.05,3.59,3.47,3.3
+Aware - Centralized,62,3.73,3.81,3.11,3.1
+Aware - Decentralized,59,3.92,3.76,3.34,3.25
